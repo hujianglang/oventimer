@@ -6,8 +6,7 @@
 
 TEMPLATE    = app
 CONFIG  += exceptions
-HEADERS = oventimer.h \
-    oventimer.h
+HEADERS = oventimer.h
 SOURCES = main.cpp \
                 oventimer.cpp
 
